@@ -1,0 +1,6 @@
+.idea/*
+venv/Lib/*
+venv/Scripts/*
+venv/pyvenv.cfg
+venv/pip-selfcheck.json
+venv/geckodriver.log
